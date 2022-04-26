@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @4shve1
-- 👀 I’m interested in coding, ai machine learning
+- 👀 I’m interested in python, coding, ai machine learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
